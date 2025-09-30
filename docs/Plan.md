@@ -30,8 +30,8 @@ This project is a two-page navigational website prototype that reflects both the
   - *Impact*: Medium
   - *Probability*: Medium
  - **Time constraints**
-  - *Impact*: High
-  - *Probability*: Medium
+    - *Impact*: High
+    - *Probability*: Medium
 
 ## Format Tools
 - **HTML & CSS**: Structure and styling.
@@ -45,3 +45,4 @@ This project is a two-page navigational website prototype that reflects both the
 - Final documentation completed.
 
 - Live site deployed and verified.
+
