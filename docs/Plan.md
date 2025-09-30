@@ -4,9 +4,9 @@
 This project is a two-page navigational website prototype that reflects both the history and recipes of Filipino cooking. This project will be built using HTML and CSS styling.
 
 ## Timeline
-- Week 6 - Create scope and begin layout and color palette.
-- Week 7 - Review peer feedback, refine structure and content.
-- Week 8 - Complete documentation and website, deploy to GitHub Pages.
+- **Week 6** - Create scope and begin layout and color palette.
+- **Week 7** - Review peer feedback, refine structure and content.
+- **Week 8** - Complete documentation and website, deploy to GitHub Pages.
 
 ## Schedule
 - **Layout** - Build index.html, Recipe.html, and styles.css.
@@ -30,8 +30,8 @@ This project is a two-page navigational website prototype that reflects both the
   - *Impact*: Medium
   - *Probability*: Medium
  - **Time constraints**
-   - *Impact*: High
-   - *Probability*: Medium
+  - *Impact*: High
+  - *Probability*: Medium
 
 ## Format Tools
 - **HTML & CSS**: Structure and styling.
@@ -43,4 +43,5 @@ This project is a two-page navigational website prototype that reflects both the
 - Repository setup with README and docs folder.
 - Peer feedback incorporated into scope and layout.
 - Final documentation completed.
+
 - Live site deployed and verified.
