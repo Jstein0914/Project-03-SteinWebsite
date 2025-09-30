@@ -43,6 +43,6 @@ This project is a two-page navigational website prototype that reflects both the
 - Repository setup with README and docs folder.
 - Peer feedback incorporated into scope and layout.
 - Final documentation completed.
-
 - Live site deployed and verified.
+
 
